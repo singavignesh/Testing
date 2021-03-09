@@ -3,6 +3,7 @@ package org.tcs;
 public class Gods {
 	
 	//Thanks to All god
+	//All Gods
 	public static void method1() {
 		System.out.println("Thanks Singam Ayya");
 	}
